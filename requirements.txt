@@ -1,0 +1,10 @@
+flask
+flask-cors
+face-recognition
+numpy
+pillow
+firebase-admin
+cloudinary
+waitress
+opencv-python-headless
+gunicorn
